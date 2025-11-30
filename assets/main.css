@@ -115,12 +115,14 @@ h2{color:#fff;margin-bottom:40px;text-align:center;font-weight:100;}
 }
 .home .demo-gallery {
   padding-bottom: 80px; 
+
 }
 @media screen and (max-width: 480px) {
   .demo-gallery > ul > li {
-    float:left;
+    float: left;
     margin-bottom: 15px;
-    margin-right: 5px;
-    width: 100px;
+    margin-left: 10px;
+    margin-right:10px;
+    width: 25vw;
 }
 }
